@@ -9,17 +9,15 @@
 This project is an E-commerce website with STRIPE payment feature integrated along with responsive web design.
 
 
-##Technologies
+
+## Technologies
+
+Project is created with:
 
 * React
-
 * Material UI v5
-
 * Commerce.js
-
 * Stripe API
-
-
 
 ## Setup
 To run this project, install it locally using npm:
