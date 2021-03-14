@@ -1,4 +1,4 @@
-#BuyManga , a webstore where you can purchase your favourite Manga Volumes
+BuyManga , a webstore where you can purchase your favourite Manga Volumes
 
 ## Table of contents
 * [General Info](#general-info)
